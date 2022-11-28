@@ -9,6 +9,7 @@ class Player:
         self.position = position
         self.all_positions = ['Goalkeeper', 'Defender', 'Midfielder', 'Forward']
 
+#pylint: disable=useless-parent-delegation
 class PlayerPhysicalAttributes(Player):
     def __init__(self, name, number, position):
         super().__init__(name, number, position)

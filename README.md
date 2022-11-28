@@ -3,6 +3,10 @@
 
 ## Lessons
 
+### Multiprocessing
+
+* [Official Docs](https://docs.python.org/3/library/multiprocessing.html)
+
 ### Classes
 
 * [Official docs OO](https://docs.python.org/3/tutorial/classes.html)
